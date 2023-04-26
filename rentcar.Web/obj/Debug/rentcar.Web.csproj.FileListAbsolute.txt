@@ -433,6 +433,12 @@ C:\GitHub\rentcar.Web\rentcar.Web\bin\System.Web.Mvc.xml
 C:\GitHub\rentcar.Web\rentcar.Web\obj\Debug\rentcar.Web.csproj.CopyComplete
 C:\GitHub\rentcar.Web\rentcar.Web\obj\Debug\rentcar.Web.dll
 C:\GitHub\rentcar.Web\rentcar.Web\obj\Debug\rentcar.Web.pdb
+<<<<<<< HEAD
+C:\Users\Dan\Documents\GitHub\rentcar.Web\rentcar.Web\bin\EntityFramework.dll
+C:\Users\Dan\Documents\GitHub\rentcar.Web\rentcar.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Dan\Documents\GitHub\rentcar.Web\rentcar.Web\bin\EntityFramework.xml
+C:\Users\Dan\Documents\GitHub\rentcar.Web\rentcar.Web\bin\EntityFramework.SqlServer.xml
+=======
 C:\GitHub\rentcar.Web\rentcar.Web\bin\AutoMapper.dll
 C:\GitHub\rentcar.Web\rentcar.Web\bin\rentcar.BusinessLogic.dll
 C:\GitHub\rentcar.Web\rentcar.Web\bin\rentcar.Domain.dll
@@ -444,3 +450,4 @@ C:\GitHub\rentcar.Web\rentcar.Web\bin\rentcar.Domain.dll.config
 C:\GitHub\rentcar.Web\rentcar.Web\bin\AutoMapper.xml
 C:\GitHub\rentcar.Web\rentcar.Web\bin\rentcar.Helpers.pdb
 C:\GitHub\rentcar.Web\rentcar.Web\bin\rentcar.Helpers.dll.config
+>>>>>>> Busineslogicrevert
