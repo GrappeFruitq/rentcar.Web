@@ -23,9 +23,12 @@ Rent a car with us today and start your journey with confidence.
 7. Login with admin profile:
 <img width="1440" alt="image" src="https://github.com/FCIM-TEHNOLOGII-WEB/rentcar.Web/assets/109951979/9885f9d5-49a7-4b41-b97c-65cfc6310fec">
 8. A message that shows admin is logged in:
-<img width="1440" alt="image" src="https://github.com/FCIM-TEHNOLOGII-WEB/rentcar.Web/assets/109951979/4f4cbabc-2794-47c1-b1d7-99929f263623">
+<img width="1440" alt="image" src="https://github.com/FCIM-TEHNOLOGII-WEB/rentcar.Web/assets/109951979/7b362132-a832-4def-90e2-58a47a005180">
+<img width="1440" alt="image" src="https://github.com/FCIM-TEHNOLOGII-WEB/rentcar.Web/assets/109951979/b9b6afa8-e812-40ea-9f27-c9fc9e83fd36">
 9. Admin Users Dashboard (Here, the administrator can create new users or delete the existing ones:
-<img width="1416" alt="image" src="https://github.com/FCIM-TEHNOLOGII-WEB/rentcar.Web/assets/109951979/de2440f8-c208-4599-9ca2-2f2dc6fb52b2">
+<img width="1440" alt="image" src="https://github.com/FCIM-TEHNOLOGII-WEB/rentcar.Web/assets/109951979/f6539ae6-70b8-4341-b43d-00b109e9a74f">
+10. Admin Reservations Dashboard:
+<img width="1440" alt="image" src="https://github.com/FCIM-TEHNOLOGII-WEB/rentcar.Web/assets/109951979/a10e2f2e-c7ba-4b60-8cba-cff57f88fc08">
 10. Admin Users Dashboard Video (Creating and deleting users):
 https://github.com/FCIM-TEHNOLOGII-WEB/rentcar.Web/assets/109951979/b274bc4d-5214-444e-a92c-a48c517193ab
 
