@@ -17,7 +17,6 @@ namespace rentcar.Web.Controllers
         {
             return View();
         }
-        [Authorize]
         // GET: Home/Contact
         public ActionResult Contact()
         {
