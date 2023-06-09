@@ -26,11 +26,11 @@ namespace rentcar.BusinessObjects
         [Display(Name = "Model")]
         [Required(ErrorMessage = "Model is required!!")]
         public string RUserModel { get; set; }
-        [Display(Name = "Pickup Date&Time")]
-        [Required(ErrorMessage = "Pickup Date&Time is required!!")]
+        [Display(Name = "Pickup Time")]
+        [Required(ErrorMessage = "Pickup Time is required!!")]
         public string RPickUpDateTime { get; set; }
-        [Display(Name = "DropOff Date&Time")]
-        [Required(ErrorMessage = "Drop Off Date&Time is required!!")]
+        [Display(Name = "DropOff Time")]
+        [Required(ErrorMessage = "Drop Off Time is required!!")]
         public string RDropOffDateTime { get; set; }
 
     }
